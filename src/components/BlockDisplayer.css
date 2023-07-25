@@ -1,0 +1,7 @@
+.buttonDisplayHash {
+    background-color: transparent;
+    border: none;
+    color: #61dafb;
+    text-decoration: underline;
+    cursor: pointer;
+}
